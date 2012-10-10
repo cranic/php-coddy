@@ -10,6 +10,7 @@
  * @license MIT <http://opensource.org/licenses/mit-license.php>
  * @date 2012-10-05 02:01:14 AM
  */
+
 /**
  * This is the default path, you can change it and leave the application
  * and/or framework path somewhere else outside the root http path.
